@@ -9,8 +9,19 @@ public class IntroToRandom {
 	public static void main(String[] args) {
 		
 		int num = 0;
+		Random r = new Random();
+		num = r.nextInt(101);
+	 System.out.println(num);
+	
+					   
+			
 		
-		//3   Now to make num random. 
+	}
+	
+	
+}
+
+//3   Now to make num random. 
 		//3a. Create an object of the Random class, Hint: Random ran = new Random()
 		
 		//3b. Next, set the value of num, using .nextInt() to get a random number from the Random object
@@ -26,5 +37,3 @@ public class IntroToRandom {
 		
 		//2. Run the program.  What number appears in the console?
 		//   Run it again. Is the number the same?
-	}
-}
