@@ -14,10 +14,10 @@ public class Validation {
 		
 		int randomNumber = randomMaker.nextInt(5);
 		
-		System.out.println(randomNumber);
+		System.out.println();
 
 		// 1. Use each value of randomNumber to give the user a random compliment.
-
+if(==)
 		// 2. Repeat all the code above 10 times
 		
 		// 3. Find someone to test out your program. They will like it :)

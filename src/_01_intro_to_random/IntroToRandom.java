@@ -8,11 +8,11 @@ import java.util.Random;
 public class IntroToRandom {
 	public static void main(String[] args) {
 		
-		int num = 0;
+		
 		Random r = new Random();
-		num = r.nextInt(101);
+		int num = r.nextInt((88- -222)+1)+ -222;
 	 System.out.println(num);
-	
+	 
 					   
 			
 		
